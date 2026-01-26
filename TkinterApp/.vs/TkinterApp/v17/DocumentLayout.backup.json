@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_from_address_in_journal2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\geo_from_address_in_journal2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\module1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\module1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\module4.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\module4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\\u0421\u043F\u0440\u0430\u0432\u043A\u0438_\u0432_\u0436\u0443\u0440\u043D\u0430\u043B.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\\u0421\u043F\u0440\u0430\u0432\u043A\u0438_\u0432_\u0436\u0443\u0440\u043D\u0430\u043B.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_from_addres_in_journal.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\geo_from_addres_in_journal.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\to_change_sent2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\to_change_sent2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\dashboad_generator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\dashboad_generator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\dash.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\dash.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\template_code.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\template_code.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_pos.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67AFE935-449D-4336-B88E-30E7BBCD55E0}|TkinterApp\\TkinterApp.pyproj|solutionrelative:TkinterApp\\geo_pos.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dash.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\dash.py",
+              "RelativeDocumentMoniker": "TkinterApp\\dash.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\dash.py",
+              "RelativeToolTip": "TkinterApp\\dash.py",
+              "ViewState": "AgIAANQDAAAAAAAAAAAtwNYDAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-23T12:05:09.223Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "module4.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\module4.py",
+              "RelativeDocumentMoniker": "TkinterApp\\module4.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\module4.py",
+              "RelativeToolTip": "TkinterApp\\module4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-26T09:59:04.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "geo_from_address_in_journal2.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_from_address_in_journal2.py",
+              "RelativeDocumentMoniker": "TkinterApp\\geo_from_address_in_journal2.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_from_address_in_journal2.py",
+              "RelativeToolTip": "TkinterApp\\geo_from_address_in_journal2.py",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-26T08:20:38.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "to_change_sent2.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\to_change_sent2.py",
+              "RelativeDocumentMoniker": "TkinterApp\\to_change_sent2.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\to_change_sent2.py",
+              "RelativeToolTip": "TkinterApp\\to_change_sent2.py",
+              "ViewState": "AgIAALcBAAAAAAAAAAAUwMQBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-23T10:32:21.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "geo_from_addres_in_journal.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_from_addres_in_journal.py",
+              "RelativeDocumentMoniker": "TkinterApp\\geo_from_addres_in_journal.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_from_addres_in_journal.py",
+              "RelativeToolTip": "TkinterApp\\geo_from_addres_in_journal.py",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAkwIIBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-23T08:59:54.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0421\u043F\u0440\u0430\u0432\u043A\u0438_\u0432_\u0436\u0443\u0440\u043D\u0430\u043B.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\\u0421\u043F\u0440\u0430\u0432\u043A\u0438_\u0432_\u0436\u0443\u0440\u043D\u0430\u043B.py",
+              "RelativeDocumentMoniker": "TkinterApp\\\u0421\u043F\u0440\u0430\u0432\u043A\u0438_\u0432_\u0436\u0443\u0440\u043D\u0430\u043B.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\\u0421\u043F\u0440\u0430\u0432\u043A\u0438_\u0432_\u0436\u0443\u0440\u043D\u0430\u043B.py",
+              "RelativeToolTip": "TkinterApp\\\u0421\u043F\u0440\u0430\u0432\u043A\u0438_\u0432_\u0436\u0443\u0440\u043D\u0430\u043B.py",
+              "ViewState": "AgIAAA8EAAAAAAAAAAAowCMEAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-21T07:46:51.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "module1.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\module1.py",
+              "RelativeDocumentMoniker": "TkinterApp\\module1.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\module1.py",
+              "RelativeToolTip": "TkinterApp\\module1.py",
+              "ViewState": "AgIAAIECAAAAAAAAAAAewIgCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-26T05:08:02.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboad_generator.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\dashboad_generator.py",
+              "RelativeDocumentMoniker": "TkinterApp\\dashboad_generator.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\dashboad_generator.py",
+              "RelativeToolTip": "TkinterApp\\dashboad_generator.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-23T12:10:00.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "template_code.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\template_code.py",
+              "RelativeDocumentMoniker": "TkinterApp\\template_code.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\template_code.py",
+              "RelativeToolTip": "TkinterApp\\template_code.py",
+              "ViewState": "AgIAALUAAAAAAAAAAAAowM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-23T10:07:16.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "geo_pos.py",
+              "DocumentMoniker": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_pos.py",
+              "RelativeDocumentMoniker": "TkinterApp\\geo_pos.py",
+              "ToolTip": "C:\\Users\\Danara\\Source\\Repos\\TkinterApp\\TkinterApp\\geo_pos.py",
+              "RelativeToolTip": "TkinterApp\\geo_pos.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-01-23T12:10:01.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
